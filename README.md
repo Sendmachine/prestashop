@@ -36,7 +36,7 @@ Installation
 
 5. Click the "Install" button to install the Sendmachine module
 
-Configure
+Configuration
 ---------
 
 Set your Sendmachine API username and password in the module's general settings tab and slide the "Enable Sendmachine module" switch to "YES".
