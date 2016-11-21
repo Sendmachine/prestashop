@@ -1,0 +1,11 @@
+{
+    "name": "sendmachine/sendmachine-api-client",
+    "description": "Sendmachine API Client",
+    "keywords": ["sendmachine","api","email"],
+    "homepage": "https://github.com/Sendmachine/SendmachineApiClient",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0",
+        "ext-curl": "*"
+    }
+}
