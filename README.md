@@ -26,9 +26,9 @@ You can send a newsletter directly from the admin panel with the latest products
 Installation
 ------------
 
-1. In your Prestashop admin panel, go to Modules and Themes Catalog, search for Sendmachine and click "Search"
+1. Download or clone this repo
 
-2. Click "DOWNLOAD" and confirm contact details to validate module download 
+2. Rename root archive folder to "sendmachine"
 
 3. Open your Prestashop admin panel, go to Modules and Services and click "Add a new module"
 
