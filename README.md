@@ -43,4 +43,3 @@ Set your Sendmachine API username and password in the module's general settings 
 If you are a confirmed Sendmachine user, you can get the username and password directly from https://www.sendmachine.com/admin/#/myaccount/smtp_settings .
 
 The sendmachine module is licensed under the MIT License. (See [LICENSE](LICENSE))
-
